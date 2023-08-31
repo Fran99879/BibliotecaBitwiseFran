@@ -3,9 +3,7 @@
 namespace BibliotecaBitwise.Models
 {
     public class RespuestaApi
-    {
-
-
+    { 
         public RespuestaApi()
         {
             ErrorMenssages = new List<string>();

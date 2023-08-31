@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8H4EJTmZ6udVgrK0qeKJ+aSjdrUuH4jDv5wA0UyUR+l3jTBs1MDLsVZD1+fioRgygv7zRI4/J95OrUfv1Dwrww==",
+  "dgSpecHash": "7mWKCOQbQ7oXk+waOOmzBWvx42z0+/Y/GbUhmcWNiM0vw3Onakv/XMRhMapvDLM0kQtd3yic5ZxsM9RVyNTRHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fran\\Desktop\\Clase4\\BibliotecaBitwise\\BibliotecaBitwise.csproj",
+  "projectFilePath": "C:\\Users\\Fran\\Desktop\\BibliotecaBitwise\\BibliotecaBitwise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fran\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Fran\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -33,8 +33,9 @@ namespace BibliotecaBitwise.Controllers
             return Ok(libroDto);
 
         }
-
-
+        //[ResponseCache(Location = ResponseCacheLocation.None, NoStore = true)]
+        //[ResponseCache(Duration = 30)] //Config manual para cada uno
+        [ResponseCache(CacheProfileName = "PorDefecto")] //Config por defecto 
         [HttpGet("dataRelacionada/{id}")]
         public async Task<ActionResult<Libro>> ObtenerRelacionada(int id)
         {

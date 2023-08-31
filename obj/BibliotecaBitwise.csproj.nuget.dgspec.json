@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fran\\Desktop\\Clase4\\BibliotecaBitwise\\BibliotecaBitwise.csproj": {}
+    "C:\\Users\\Fran\\Desktop\\BibliotecaBitwise\\BibliotecaBitwise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fran\\Desktop\\Clase4\\BibliotecaBitwise\\BibliotecaBitwise.csproj": {
+    "C:\\Users\\Fran\\Desktop\\BibliotecaBitwise\\BibliotecaBitwise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\Clase4\\BibliotecaBitwise\\BibliotecaBitwise.csproj",
+        "projectUniqueName": "C:\\Users\\Fran\\Desktop\\BibliotecaBitwise\\BibliotecaBitwise.csproj",
         "projectName": "BibliotecaBitwise",
-        "projectPath": "C:\\Users\\Fran\\Desktop\\Clase4\\BibliotecaBitwise\\BibliotecaBitwise.csproj",
+        "projectPath": "C:\\Users\\Fran\\Desktop\\BibliotecaBitwise\\BibliotecaBitwise.csproj",
         "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\Desktop\\Clase4\\BibliotecaBitwise\\obj\\",
+        "outputPath": "C:\\Users\\Fran\\Desktop\\BibliotecaBitwise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
